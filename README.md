@@ -11,4 +11,6 @@ This repository provides a minimal setup for a small Love2D game written in Lua.
 love .
 ```
 
-Use the arrow keys to move the player square around the screen.
+The game will start on a simple title screen. Press **Enter** to begin playing
+and use the arrow keys to move the player square around the screen. Press
+**Escape** during the game to return to the title screen.
